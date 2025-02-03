@@ -16,15 +16,14 @@ nav ul li a:hover {
   background-color: #b7410e;
   padding: 15px;
 }
-
-
-
-
-
-
-
-
-
+footer {
+    background-color: #fca956;
+    color: #008000;
+    text-align: center;
+    padding: 10px;
+  font-weight:600;
+  font-size:16px;
+}
 .navbar {
   overflow: hidden;
   background-color: #333;
